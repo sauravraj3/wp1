@@ -1,0 +1,3 @@
+Sep 11 2020 02:59:35
+{"type":2,"message":"file_get_contents(wp-tmp.php): failed to open stream: No such file or directory","file":"C:\\xampp\\htdocs\\plugin\\wp-content\\themes\\the100\\functions.php","line":164}
+
