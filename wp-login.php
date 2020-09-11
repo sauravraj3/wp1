@@ -1,5 +1,4 @@
 <?php
-echo"djaidjaj";
 /**
  * WordPress User Page
  *
